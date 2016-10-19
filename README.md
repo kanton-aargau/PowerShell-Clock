@@ -15,5 +15,8 @@ A simple PowerShell Clock, with a Windows 10-ish design
 - xml, to generate the window
 - Notifyicon, so theres no open window
 
-The actual clock part wasn't 100% made by me, so here is a link to the original one, but I did a lot of work to upgrading it.
+Not everything here was made by me, so here is a link to the original sources
 https://gallery.technet.microsoft.com/scriptcenter/Clock-Widget-574c2988
+https://gallery.technet.microsoft.com/scriptcenter/Popup-Toast-WPF-PowerShell-e228e7a3
+
+But I did a lot of work to upgrade and combine them, so they work well with each otter (pun intended)
